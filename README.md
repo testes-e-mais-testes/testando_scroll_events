@@ -1,3 +1,7 @@
-# testando scroll events
+# testing scroll events
 
-testes com base no curso de scroll events do TutsPlus.
+## tests with tutsplus course
+
+all the files are free for use.
+
+##### @thierryrenne
